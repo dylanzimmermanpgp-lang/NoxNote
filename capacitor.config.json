@@ -1,0 +1,13 @@
+{
+  "appId": "com.local.notebook",
+  "appName": "Cuaderno",
+  "webDir": "www",
+  "backgroundColor": "#0a0a0c",
+  "android": {
+    "backgroundColor": "#0a0a0c",
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

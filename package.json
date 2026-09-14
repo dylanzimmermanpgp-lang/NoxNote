@@ -1,0 +1,15 @@
+{
+  "name": "notebook-app",
+  "version": "1.0.0",
+  "description": "Cuaderno digital local y offline, estilo Jotter, con notas libres (texto + imagenes movibles) y notas de texto tradicional.",
+  "scripts": {
+    "sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
